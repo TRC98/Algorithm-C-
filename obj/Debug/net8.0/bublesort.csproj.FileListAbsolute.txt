@@ -12,3 +12,4 @@ D:\algorithm\c#\bublesort\obj\Debug\net8.0\refint\bublesort.dll
 D:\algorithm\c#\bublesort\obj\Debug\net8.0\bublesort.pdb
 D:\algorithm\c#\bublesort\obj\Debug\net8.0\bublesort.genruntimeconfig.cache
 D:\algorithm\c#\bublesort\obj\Debug\net8.0\ref\bublesort.dll
+D:\algorithm\c#\bublesort\obj\Debug\net8.0\bublesort.sourcelink.json
