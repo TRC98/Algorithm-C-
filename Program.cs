@@ -19,7 +19,7 @@ try
 {
     Log.Information("Start Console");
 
-    var builder = new ConfigurationBuilder().AddJsonFile($"appsettings.json", true,true);
+    //var builder = new ConfigurationBuilder().AddJsonFile($"appsettings.json", true,true);
     Console.ForegroundColor = ConsoleColor.Green;
     Console.WriteLine("======================================================================");
     Console.WriteLine("============== | ** Algorithm Console application ** | ===============");
